@@ -1,0 +1,8 @@
+
+
+# ignore dev database stuff:
+migrations/
+twitoff_development_14.db
+
+# ignore secret credentials:
+.env
